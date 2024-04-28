@@ -12,4 +12,4 @@ async function apiRequest(){
     catch(error){
         console.log(error)
     }
-}
+} 
